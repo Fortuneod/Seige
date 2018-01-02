@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.fortuneod.seige"
+    versionCode = "10"
+    version     = "1.1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Seige Prayers</name>
+
+  <description>
+      Prayers To Quench The Rage Of The Enemy
+  </description>
+    
+  <icon src="logo.png" width="75" height="75" density="mdpi" />
+
+  <author href="https://fortuneod.blogspot.com" email="fortuneodesanya@gmail.com">
+      Fortune Odesanya
+  </author>
+
+</widget>
